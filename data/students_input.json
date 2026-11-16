@@ -40,5 +40,12 @@
     "program": "Teknik Komputer",
     "score": 55,
     "attendance": 85
+  },
+  {
+    "nim": "2301007",
+    "name": "abcd",
+    "program": "abcd",
+    "score": 100,
+    "attendance": 100
   }
 ]

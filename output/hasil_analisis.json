@@ -1,14 +1,14 @@
 {
   "statistics": {
-    "total_students": 6,
-    "average_score": 65.33,
-    "highest_score": 92,
+    "total_students": 7,
+    "average_score": 70.29,
+    "highest_score": 100,
     "lowest_score": 0,
-    "passed_count": 2,
+    "passed_count": 3,
     "status_counts": {
       "Lulus": 1,
       "Remedial": 1,
-      "Lulus dengan Pujian": 1,
+      "Lulus dengan Pujian": 2,
       "Peringatan Kehadiran": 1,
       "Tidak Lulus": 2
     }
@@ -16,11 +16,21 @@
   "unique_programs": [
     "Informatika",
     "Sistem Informasi",
-    "Teknik Komputer"
+    "Teknik Komputer",
+    "abcd"
   ],
   "ranked_students": [
     {
       "rank": 1,
+      "nim": "2301007",
+      "name": "abcd",
+      "program": "abcd",
+      "score": 100,
+      "attendance": 100,
+      "status": "Lulus dengan Pujian"
+    },
+    {
+      "rank": 2,
       "nim": "2301003",
       "name": "Citra",
       "program": "Teknik Komputer",
@@ -29,7 +39,7 @@
       "status": "Lulus dengan Pujian"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "nim": "2301004",
       "name": "Dewi",
       "program": "Sistem Informasi",
@@ -38,7 +48,7 @@
       "status": "Peringatan Kehadiran"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "nim": "2301001",
       "name": "Andi",
       "program": "Teknik Komputer",
@@ -47,7 +57,7 @@
       "status": "Lulus"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "nim": "2301002",
       "name": "Budi",
       "program": "Informatika",
@@ -56,7 +66,7 @@
       "status": "Remedial"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "nim": "2301006",
       "name": "Fajar",
       "program": "Teknik Komputer",
@@ -65,7 +75,7 @@
       "status": "Tidak Lulus"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "nim": "2301005",
       "name": "Eka",
       "program": "Informatika",
