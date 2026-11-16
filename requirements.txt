@@ -1,0 +1,2 @@
+# Aplikasi ini hanya menggunakan Python Standard Library (Python 3.10+)
+# Tidak ada package eksternal yang perlu diinstal.

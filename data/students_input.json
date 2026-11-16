@@ -1,0 +1,44 @@
+[
+  {
+    "nim": "2301001",
+    "name": "Andi",
+    "program": "Teknik Komputer",
+    "score": 85,
+    "attendance": 92
+  },
+  {
+    "nim": "2301002",
+    "name": "Budi",
+    "program": "Informatika",
+    "score": 72,
+    "attendance": 81
+  },
+  {
+    "nim": "2301003",
+    "name": "Citra",
+    "program": "Teknik Komputer",
+    "score": 92,
+    "attendance": 95
+  },
+  {
+    "nim": "2301004",
+    "name": "Dewi",
+    "program": "Sistem Informasi",
+    "score": 88,
+    "attendance": 70
+  },
+  {
+    "nim": "2301005",
+    "name": "Eka",
+    "program": "Informatika",
+    "score": 0,
+    "attendance": 80
+  },
+  {
+    "nim": "2301006",
+    "name": "Fajar",
+    "program": "Teknik Komputer",
+    "score": 55,
+    "attendance": 85
+  }
+]
