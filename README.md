@@ -36,12 +36,7 @@ student-grade-cli/
    ```
    *(atau `python3 --version` di Linux/macOS)*
 
-2. Masuk ke folder proyek:
-   ```bash
-   cd student-grade-cli
-   ```
-
-3. *(Opsional)* Buat dan aktifkan virtual environment:
+2. *(Opsional)* Buat dan aktifkan virtual environment:
    ```bash
    python -m venv .venv
    # Windows:
@@ -50,7 +45,7 @@ student-grade-cli/
    source .venv/bin/activate
    ```
 
-4. Jalankan program utama:
+3. Jalankan program utama:
    ```bash
    python main.py
    ```
